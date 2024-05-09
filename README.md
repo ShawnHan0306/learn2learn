@@ -1,7 +1,7 @@
 # learn2learn
 learn how to learn
 
-zh
+# zh
 # 学习笔记
 
 ## 目录
@@ -52,7 +52,7 @@ zh
 
 意识到冒名顶替综合症是一种常见的感觉，并且通过自我意识来克服它。
 
-en
+# en
 ## Table of Contents
 
 1. Learning Modes
