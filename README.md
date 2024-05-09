@@ -48,9 +48,11 @@ zh
 
 认识到自己的学习风格和优势，无论是快速思考者还是慢速思考者，都有其独特的价值。
 
+## 冒名顶替综合症
 
+意识到冒名顶替综合症是一种常见的感觉，并且通过自我意识来克服它。
 
-
+en
 ## Table of Contents
 
 1. Learning Modes
@@ -100,7 +102,5 @@ Recognizing your own learning style and strengths, whether you are a fast thinke
 Recognize that feeling like an imposter is a common sensation and can be overcome by self-awareness.
 
 
-## 冒名顶替综合症
 
-意识到冒名顶替综合症是一种常见的感觉，并且通过自我意识来克服它。
 
